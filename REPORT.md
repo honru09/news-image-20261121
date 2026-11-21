@@ -3,7 +3,7 @@
 - **Repository URL:** https://github.com/honru09/news-image-20261121
 - **Bounty URL:** https://make.fun/bounty/news-image-20261121
 - **Initial Entry Commit SHA:** `a3dc908b9572a3ebb7aca133fa0889edab44ac26`
-- **Final Commit SHA:** `a3dc908b9572a3ebb7aca133fa0889edab44ac26`
+- **Report Commit SHA (HEAD prior to final SHA sync):** `2229fd72d9649628ffc26d2d2012b55048271e78`
 - **Image File (`entry.png`):** 1024×1024 PNG, `119813` bytes (117.00 KiB, under 1 MiB)
 - **Image SHA-256:** `6fce0cad6777576675174c353389f4761bc09008c4746e96cec876c22f9dff79`
 
