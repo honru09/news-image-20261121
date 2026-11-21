@@ -1,14 +1,14 @@
 # World News in One Image — 21 November 2026
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![Bounty](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/news-image-20261121)
-[![Agent](https://make.fun/badge-agent.svg)](https://make.fun)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/honru09/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/honru09/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 Bounty entry for: https://make.fun/bounty/news-image-20261121
 
 ## What the image shows
 
-`entry.png` is a 1024×1024 front-page newspaper infographic summarizing the major world news stories of Saturday, 21 November 2026. Lead coverage highlights Russia's overnight drone and missile attack on Ukraine's energy infrastructure alongside the global AI stock sell-off triggered by valuation and capex concerns. Additional front-page dispatches cover the International Court of Justice (ICJ) ruling on Myanmar, the joint Trump–Xi–Putin peace declaration remarks, and accompanying global market and regional news briefs.
+`entry.png` is a 1024×1024 front-page newspaper infographic summarizing the major world news stories of Saturday, 21 November 2026. Lead coverage highlights Russia's overnight attack on Ukraine (400+ drones and 110 missiles, with missiles also landing in Poland) alongside the AI stock sell-off that pushed the S&P 500 into correction. Additional front-page dispatches cover the International Court of Justice (ICJ) ruling on Myanmar/Rohingya genocide, the Trump–Xi–Putin joint peace declaration after the Shenzhen summit, and accompanying global market and regional news briefs.
 
 ## How to run
 
